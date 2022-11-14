@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Le Gia Kiet</h1>
 <h3 align="center">An Information Technology Student from Viet Nam</h3>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 300px></picture>
 
 - 🔭 I’m a student at **University of Information Technology - VNUHCM.**
 
