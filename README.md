@@ -4,11 +4,11 @@
 
 - 🔭 I’m a student at **University of Information Technology - VNUHCM.**
 
-- 🌱 I’m currently learning **HTML/CSS, Javascript and Python.**
+- 🌱 I’m currently learning **Python, SQL, PowerBI and Tableau**
 
 - 📫 How to reach me **g.kietle@gmail.com**
 
-- ⚡ Fun fact **I want to be good at Full-Stack Developer**
+- ⚡ Fun fact **I want to be a Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
