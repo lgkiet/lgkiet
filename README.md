@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **g.kietle@gmail.com**
 
-- ⚡ Fun fact **I want to be a Data Analyst**
+- ⚡ Fun fact **I want to be a ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
